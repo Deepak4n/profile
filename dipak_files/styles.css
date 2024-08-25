@@ -1,0 +1,53 @@
+.my-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded corners */
+  }
+  
+  .my-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+
+  .LinkedIn {
+    background-color: #0e2aff; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded corners */
+  }
+  
+  .LinkedIn:hover {
+    background-color: #0e2aff; /* Darker green on hover */
+  }
+
+  .GitHub {
+    background-color: #5553f6; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded corners */
+  }
+  
+  .GitHub:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
